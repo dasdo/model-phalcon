@@ -6,7 +6,7 @@
 	"version": "1.0.0",	
 	"autoload": {
 		"classmap": [
-			"vendor/dasdo/model-phalcon/models/"
+			"models/"
 		],
 		"psr-0": {
 			"Oorden\\Models\\": "dasdo/model-phalcon/models/"
