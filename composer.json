@@ -1,0 +1,7 @@
+{
+	"name": "dasdo/model-phalcon",
+	"description": "test para probar la inclucion con composer de los model en phalcon.",
+	"keywords": ["Test","composer","Phalcon"],
+	"license": "MIT",
+	"version": "1.0.0"
+}
