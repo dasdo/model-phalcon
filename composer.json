@@ -3,5 +3,13 @@
 	"description": "test para probar la inclucion con composer de los model en phalcon.",
 	"keywords": ["Test","composer","Phalcon"],
 	"license": "MIT",
-	"version": "1.0.0"
+	"version": "1.0.0",	
+	"autoload": {
+		"classmap": [
+			"vendor/dasdo/model-phalcon/models/"
+		],
+		"psr-0": {
+			"Oorden\\Models\\": "dasdo/model-phalcon/models/"
+		}
+	}
 }
